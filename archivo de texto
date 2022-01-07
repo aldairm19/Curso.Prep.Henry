@@ -1,0 +1,12 @@
+ variables: es como una caja para almacemar el valor de algo que
+podemos uzar despues//
+// Strings:son bloques de textos que siempre se habren y se cierra en comillas,
+cualquier texto entre comillas es un Strings o cadena//
+//Funciones: son tipos particulares de objetos que sirven para calcular las variables 
+tambine tienen argumentos que sirven para ejecutar una funcuncio
+retrun sirve para devolver algo de cualquier Funcion//
+// Declaraciones `if' es un control de flujo que sirve para que una funcion pueda
+ verificar si algo es falso o verdadero//
+
+// Valores booleanos: sirven para declarar dos cosas
+true, si algo es verdadero o false si algo es falso 
